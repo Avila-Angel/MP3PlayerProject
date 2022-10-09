@@ -39,7 +39,3 @@ Each button located on the MP3 music player is fully functional.
 <img width="558" alt="image" src="https://user-images.githubusercontent.com/88301319/194735708-f82ab598-b0c1-496c-a128-93a35b1136b0.png">
 <br /><br /><br />
 
-
-## Acknowledgements
-* This app was inspired by the JavaFX GUI Course from Bro Code.
-* Youtube: <https://www.youtube.com/watch?v=bI6e6qjJ8JQ&list=PLnPm91GDZz1qIBMqpedwLHiBTnJo9YhzD&index=4&t=34s&ab_channel=BroCode>
